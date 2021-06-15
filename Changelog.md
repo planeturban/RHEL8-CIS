@@ -10,6 +10,8 @@
   - thanks to RosarioVinoth
 - #107 Idempotence improvement for 4.1.1.3 and 4.1.1.4
   - thanks to andreyzher
+- #110 tmp.mount support
+  - thanks to erpadmin
 
 - lint changes and updates to sync with ansible-galaxy
 
